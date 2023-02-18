@@ -1,0 +1,14 @@
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\bin\Debug\netcoreapp3.1\enum-example.exe
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\bin\Debug\netcoreapp3.1\enum-example.deps.json
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\bin\Debug\netcoreapp3.1\enum-example.runtimeconfig.json
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\bin\Debug\netcoreapp3.1\enum-example.runtimeconfig.dev.json
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\bin\Debug\netcoreapp3.1\enum-example.dll
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\bin\Debug\netcoreapp3.1\enum-example.pdb
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\obj\Debug\netcoreapp3.1\enum-example.csproj.AssemblyReference.cache
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\obj\Debug\netcoreapp3.1\enum-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\obj\Debug\netcoreapp3.1\enum-example.AssemblyInfoInputs.cache
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\obj\Debug\netcoreapp3.1\enum-example.AssemblyInfo.cs
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\obj\Debug\netcoreapp3.1\enum-example.csproj.CoreCompileInputs.cache
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\obj\Debug\netcoreapp3.1\enum-example.dll
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\obj\Debug\netcoreapp3.1\enum-example.pdb
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2023-02-February\7. How to Use Enums in C#\CS-enum-examples\enum-example\obj\Debug\netcoreapp3.1\enum-example.genruntimeconfig.cache
